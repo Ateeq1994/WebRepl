@@ -1,0 +1,21 @@
+body {
+  background: #f1f2f6;
+  padding: 0,auto;
+}
+header {
+  background: #6c5ce7;
+}
+div.header {
+  text-align: center;
+}
+div.fileops {
+    text-align: center;
+}
+
+div.footer {
+    text-align: center;
+}
+
+div.r1 {
+  text-align: center;
+}
